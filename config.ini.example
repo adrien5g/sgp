@@ -1,0 +1,6 @@
+[credentials]
+username=user@al.senai.br
+password=pass
+client_secret=7i7rxT0LdTo9NFz4oN3uNdsRri0G0Q2ixZF4wTs2
+client_id=2
+grant_type=password
